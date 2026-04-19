@@ -1,0 +1,244 @@
+2026-04-19 10:20:11 [INFO] main: 日志系统初始化完成  backend.log / frontend.log
+2026-04-19 10:20:11 [INFO] uvicorn.error: Application startup complete.
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "OPTIONS /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60655 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60658 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60659 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60651 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60649 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:20:11 [INFO] uvicorn.access: 127.0.0.1:60653 - "POST /api/log HTTP/1.1" 200
+2026-04-19 10:22:20 [INFO] uvicorn.error: Shutting down
+2026-04-19 10:22:20 [INFO] uvicorn.error: Waiting for application shutdown.
+2026-04-19 10:22:20 [INFO] uvicorn.error: Application shutdown complete.
+2026-04-19 10:22:20 [INFO] uvicorn.error: Finished server process [24664]
+2026-04-19 10:22:27 [INFO] main: 日志系统初始化完成  backend.log / frontend.log
+2026-04-19 10:23:29 [INFO] main: >>> 收到搜索请求  topic='台湾自由行是否开放'  client=127.0.0.1
+2026-04-19 10:23:29 [INFO] agent: === Agent 启动  topic='台湾自由行是否开放'  model=gemma4:31b ===
+2026-04-19 10:23:29 [INFO] agent: --- 第 1 轮 LLM 调用 ---
+2026-04-19 10:23:29 [DEBUG] httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2026-04-19 10:23:29 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x103f9a7b0>
+2026-04-19 10:23:29 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-19 10:23:29 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-19 10:23:29 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-19 10:23:29 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-19 10:23:29 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-19 10:23:44 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sun, 19 Apr 2026 14:23:44 GMT'), (b'Content-Length', b'1232')])
+2026-04-19 10:23:44 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-19 10:23:44 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-19 10:23:44 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-19 10:23:44 [DEBUG] httpcore.http11: response_closed.started
+2026-04-19 10:23:44 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-19 10:23:44 [INFO] agent: LLM 响应  耗时=15.15s  content=''  tool_calls=['search_news', 'search_news', 'search_news']
+2026-04-19 10:23:44 [DEBUG] agent: 工具调用  fn=search_news  args={'query': '台湾自由行是否开放'}
+2026-04-19 10:23:44 [DEBUG] tools: Google News RSS 搜索  query='台湾自由行是否开放'  max_results=15
+2026-04-19 10:23:44 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=%E5%8F%B0%E6%B9%BE%E8%87%AA%E7%94%B1%E8%A1%8C%E6%98%AF%E5%90%A6%E5%BC%80%E6%94%BE&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:23:45 [INFO] tools: 搜索完成  query='台湾自由行是否开放'  返回=0 条  耗时=0.43s
+2026-04-19 10:23:45 [INFO] agent: 工具返回  query='台湾自由行是否开放'  本次=0  累计=0
+2026-04-19 10:23:45 [DEBUG] agent: 工具调用  fn=search_news  args={'query': '台湾自由行 最新消息 2025'}
+2026-04-19 10:23:45 [DEBUG] tools: Google News RSS 搜索  query='台湾自由行 最新消息 2025'  max_results=15
+2026-04-19 10:23:45 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=%E5%8F%B0%E6%B9%BE%E8%87%AA%E7%94%B1%E8%A1%8C+%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF+2025&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:23:45 [INFO] tools: 搜索完成  query='台湾自由行 最新消息 2025'  返回=0 条  耗时=0.40s
+2026-04-19 10:23:45 [INFO] agent: 工具返回  query='台湾自由行 最新消息 2025'  本次=0  累计=0
+2026-04-19 10:23:45 [DEBUG] agent: 工具调用  fn=search_news  args={'query': '大陆赴台自由行 政策 2025'}
+2026-04-19 10:23:45 [DEBUG] tools: Google News RSS 搜索  query='大陆赴台自由行 政策 2025'  max_results=15
+2026-04-19 10:23:45 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=%E5%A4%A7%E9%99%86%E8%B5%B4%E5%8F%B0%E8%87%AA%E7%94%B1%E8%A1%8C+%E6%94%BF%E7%AD%96+2025&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:23:45 [INFO] tools: 搜索完成  query='大陆赴台自由行 政策 2025'  返回=0 条  耗时=0.40s
+2026-04-19 10:23:45 [INFO] agent: 工具返回  query='大陆赴台自由行 政策 2025'  本次=0  累计=0
+2026-04-19 10:23:45 [INFO] agent: --- 第 2 轮 LLM 调用 ---
+2026-04-19 10:23:45 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-19 10:23:45 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-19 10:23:45 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-19 10:23:45 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-19 10:23:45 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-19 10:24:21 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sun, 19 Apr 2026 14:24:21 GMT'), (b'Transfer-Encoding', b'chunked')])
+2026-04-19 10:24:21 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-19 10:24:21 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-19 10:24:21 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-19 10:24:21 [DEBUG] httpcore.http11: response_closed.started
+2026-04-19 10:24:21 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-19 10:24:21 [INFO] agent: LLM 响应  耗时=35.49s  content=''  tool_calls=['search_news', 'search_news']
+2026-04-19 10:24:21 [DEBUG] agent: 工具调用  fn=search_news  args={'query': '大陆赴台旅游 政策 2024 2025'}
+2026-04-19 10:24:21 [DEBUG] tools: Google News RSS 搜索  query='大陆赴台旅游 政策 2024 2025'  max_results=15
+2026-04-19 10:24:21 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=%E5%A4%A7%E9%99%86%E8%B5%B4%E5%8F%B0%E6%97%85%E6%B8%B8+%E6%94%BF%E7%AD%96+2024+2025&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:24:21 [INFO] tools: 搜索完成  query='大陆赴台旅游 政策 2024 2025'  返回=0 条  耗时=0.45s
+2026-04-19 10:24:21 [INFO] agent: 工具返回  query='大陆赴台旅游 政策 2024 2025'  本次=0  累计=0
+2026-04-19 10:24:21 [DEBUG] agent: 工具调用  fn=search_news  args={'query': '台湾 自由行 开放 进度'}
+2026-04-19 10:24:21 [DEBUG] tools: Google News RSS 搜索  query='台湾 自由行 开放 进度'  max_results=15
+2026-04-19 10:24:21 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=%E5%8F%B0%E6%B9%BE+%E8%87%AA%E7%94%B1%E8%A1%8C+%E5%BC%80%E6%94%BE+%E8%BF%9B%E5%BA%A6&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:24:22 [INFO] tools: 搜索完成  query='台湾 自由行 开放 进度'  返回=0 条  耗时=0.30s
+2026-04-19 10:24:22 [INFO] agent: 工具返回  query='台湾 自由行 开放 进度'  本次=0  累计=0
+2026-04-19 10:24:22 [INFO] agent: --- 第 3 轮 LLM 调用 ---
+2026-04-19 10:24:22 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-19 10:24:22 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-19 10:24:22 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-19 10:24:22 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-19 10:24:22 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-19 10:24:59 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sun, 19 Apr 2026 14:24:59 GMT'), (b'Transfer-Encoding', b'chunked')])
+2026-04-19 10:24:59 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-19 10:24:59 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-19 10:24:59 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-19 10:24:59 [DEBUG] httpcore.http11: response_closed.started
+2026-04-19 10:24:59 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-19 10:24:59 [INFO] agent: LLM 响应  耗时=37.52s  content='---\n'  tool_calls=['search_news', 'search_news']
+2026-04-19 10:24:59 [DEBUG] agent: 工具调用  fn=search_news  args={'query': 'Mainland China Taiwan tourism open 2025'}
+2026-04-19 10:24:59 [DEBUG] tools: Google News RSS 搜索  query='Mainland China Taiwan tourism open 2025'  max_results=15
+2026-04-19 10:24:59 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=Mainland+China+Taiwan+tourism+open+2025&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:25:00 [INFO] tools: 搜索完成  query='Mainland China Taiwan tourism open 2025'  返回=15 条  耗时=0.55s
+2026-04-19 10:25:00 [DEBUG] tools: 第一条样本: title='Beijing renews calls for Taipei to open up tourism upon my F'  source='Pekingnology'  date='2026-03-05T08:00:00+00:00'
+2026-04-19 10:25:00 [INFO] agent: 工具返回  query='Mainland China Taiwan tourism open 2025'  本次=15  累计=15
+2026-04-19 10:25:00 [DEBUG] agent: 工具调用  fn=search_news  args={'query': 'Taiwan travel policy for Chinese citizens 2025'}
+2026-04-19 10:25:00 [DEBUG] tools: Google News RSS 搜索  query='Taiwan travel policy for Chinese citizens 2025'  max_results=15
+2026-04-19 10:25:00 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=Taiwan+travel+policy+for+Chinese+citizens+2025&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:25:00 [INFO] tools: 搜索完成  query='Taiwan travel policy for Chinese citizens 2025'  返回=15 条  耗时=0.62s
+2026-04-19 10:25:00 [DEBUG] tools: 第一条样本: title='Taiwan Explained: Why China Claims It, and Why the U.S. Is I'  source='Council on Foreign Relations'  date='2026-03-13T07:00:00+00:00'
+2026-04-19 10:25:00 [INFO] agent: 工具返回  query='Taiwan travel policy for Chinese citizens 2025'  本次=15  累计=30
+2026-04-19 10:25:00 [INFO] agent: --- 第 4 轮 LLM 调用 ---
+2026-04-19 10:25:00 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-19 10:25:00 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-19 10:25:00 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-19 10:25:00 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-19 10:25:00 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-19 10:26:00 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sun, 19 Apr 2026 14:26:00 GMT'), (b'Transfer-Encoding', b'chunked')])
+2026-04-19 10:26:00 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-19 10:26:00 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-19 10:26:00 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-19 10:26:00 [DEBUG] httpcore.http11: response_closed.started
+2026-04-19 10:26:00 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-19 10:26:00 [INFO] agent: LLM 响应  耗时=59.30s  content=''  tool_calls=['finish_search']
+2026-04-19 10:26:00 [DEBUG] agent: 工具调用  fn=finish_search  args={'reason': "I have gathered sufficient information from multiple search queries. The results indicate that while there are calls from Beijing and some media (e.g., Financial Times) for Taiwan to reopen tourism for mainland Chinese citizens, and there is significant travel from Taiwan to the mainland, there is no official announcement that 'Taiwan individual travel' (台湾自由行) for mainland citizens has been reopened. The search results provide a clear picture of the current status and the surrounding geopolitical context."}
+2026-04-19 10:26:00 [INFO] agent: Agent 调用 finish_search  reason="I have gathered sufficient information from multiple search queries. The results indicate that while there are calls from Beijing and some media (e.g., Financial Times) for Taiwan to reopen tourism for mainland Chinese citizens, and there is significant travel from Taiwan to the mainland, there is no official announcement that 'Taiwan individual travel' (台湾自由行) for mainland citizens has been reopened. The search results provide a clear picture of the current status and the surrounding geopolitical context."
+2026-04-19 10:26:00 [INFO] tools: 去重  原始=30  去重后=28  删除=2
+2026-04-19 10:26:00 [INFO] tools: 排序+截断  输入=28  输出=15  limit=15
+2026-04-19 10:26:00 [DEBUG] tools: 最新一条: title='Taiwan Explained: Why China Claims It, and Why the U.S. Is Involved - Council on Foreign Relations'  date='2026-03-13T07:00:00+00:00'
+2026-04-19 10:26:00 [DEBUG] tools: 格式化完成  共 15 条
+2026-04-19 10:26:00 [INFO] agent: === Agent 完成  topic='台湾自由行是否开放'  结果=15 条  总耗时=150.62s ===
+2026-04-19 10:26:00 [INFO] main: <<< 请求完成  topic='台湾自由行是否开放'  耗时=150.63s
+2026-04-19 10:32:32 [INFO] main: 日志系统初始化完成  backend.log / frontend.log
+2026-04-19 10:32:55 [INFO] main: >>> 收到搜索请求  topic='英伟达 收购 HP'  client=127.0.0.1
+2026-04-19 10:32:55 [INFO] agent: === Agent 启动  topic='英伟达 收购 HP'  model=gemma4:31b ===
+2026-04-19 10:32:55 [INFO] agent: --- 第 1 轮 LLM 调用 ---
+2026-04-19 10:32:55 [DEBUG] httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2026-04-19 10:32:55 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x107a967b0>
+2026-04-19 10:32:55 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-19 10:32:55 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-19 10:32:55 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-19 10:32:55 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-19 10:32:55 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-19 10:33:14 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sun, 19 Apr 2026 14:33:14 GMT'), (b'Content-Length', b'1135')])
+2026-04-19 10:33:14 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-19 10:33:14 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-19 10:33:14 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-19 10:33:14 [DEBUG] httpcore.http11: response_closed.started
+2026-04-19 10:33:14 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-19 10:33:14 [INFO] agent: LLM 响应  耗时=19.53s  content=''  tool_calls=['search_news', 'search_news', 'search_news']
+2026-04-19 10:33:14 [DEBUG] agent: 工具调用  fn=search_news  args={'query': '英伟达 收购 HP'}
+2026-04-19 10:33:14 [DEBUG] tools: Google News RSS 搜索  query='英伟达 收购 HP'  max_results=15
+2026-04-19 10:33:14 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE+%E6%94%B6%E8%B4%AD+HP&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:33:15 [INFO] tools: 搜索完成  query='英伟达 收购 HP'  返回=2 条  耗时=0.39s
+2026-04-19 10:33:15 [DEBUG] tools: 第一条样本: title='英偉達(NVDA.US)澄清並無計劃收購戴爾(DELL.US)或惠普(HPQ.US)US Stocks - Global'  source='AASTOCKS.com'  date='2026-04-14T14:46:00+00:00'
+2026-04-19 10:33:15 [INFO] agent: 工具返回  query='英伟达 收购 HP'  本次=2  累计=2
+2026-04-19 10:33:15 [DEBUG] agent: 工具调用  fn=search_news  args={'query': 'Nvidia acquisition HP news'}
+2026-04-19 10:33:15 [DEBUG] tools: Google News RSS 搜索  query='Nvidia acquisition HP news'  max_results=15
+2026-04-19 10:33:15 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=Nvidia+acquisition+HP+news&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:33:15 [INFO] tools: 搜索完成  query='Nvidia acquisition HP news'  返回=15 条  耗时=0.45s
+2026-04-19 10:33:15 [DEBUG] tools: 第一条样本: title='Nvidia denies acquisition rumour after Dell, HP shares surge'  source='MSN'  date='2026-04-19T10:52:30+00:00'
+2026-04-19 10:33:15 [INFO] agent: 工具返回  query='Nvidia acquisition HP news'  本次=15  累计=17
+2026-04-19 10:33:15 [DEBUG] agent: 工具调用  fn=search_news  args={'query': 'Nvidia HP latest news 2025'}
+2026-04-19 10:33:15 [DEBUG] tools: Google News RSS 搜索  query='Nvidia HP latest news 2025'  max_results=15
+2026-04-19 10:33:15 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=Nvidia+HP+latest+news+2025&hl=en-US&gl=US&ceid=US:en
+2026-04-19 10:33:16 [INFO] tools: 搜索完成  query='Nvidia HP latest news 2025'  返回=15 条  耗时=0.53s
+2026-04-19 10:33:16 [DEBUG] tools: 第一条样本: title='3 Chinese nationals charged with smuggling Nvidia, HP chips '  source='abcnews.com'  date='2026-02-06T01:13:40+00:00'
+2026-04-19 10:33:16 [INFO] agent: 工具返回  query='Nvidia HP latest news 2025'  本次=15  累计=32
+2026-04-19 10:33:16 [INFO] agent: --- 第 2 轮 LLM 调用 ---
+2026-04-19 10:33:16 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-19 10:33:16 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-19 10:33:16 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-19 10:33:16 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-19 10:33:16 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-19 10:34:52 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sun, 19 Apr 2026 14:34:52 GMT'), (b'Transfer-Encoding', b'chunked')])
+2026-04-19 10:34:52 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-19 10:34:52 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-19 10:34:52 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-19 10:34:52 [DEBUG] httpcore.http11: response_closed.started
+2026-04-19 10:34:52 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-19 10:34:52 [INFO] agent: LLM 响应  耗时=96.07s  content='关于“英伟达（Nvidia）收购 HP（惠普）”的最新消息，核心结论是：**该消息为市场传闻，英伟达已正式予以否认。**\n\n以下是根据搜索结果整理的详细新闻汇总'  tool_calls=无
+2026-04-19 10:34:52 [INFO] agent: 模型未调用工具，Agent 主动结束
+2026-04-19 10:34:52 [INFO] tools: 去重  原始=32  去重后=32  删除=0
+2026-04-19 10:34:52 [INFO] tools: 排序+截断  输入=32  输出=15  limit=15
+2026-04-19 10:34:52 [DEBUG] tools: 最新一条: title='Nvidia denies acquisition rumour after Dell, HP shares surge - MSN'  date='2026-04-19T10:52:30+00:00'
+2026-04-19 10:34:52 [DEBUG] tools: 格式化完成  共 15 条
+2026-04-19 10:34:52 [INFO] agent: === Agent 完成  topic='英伟达 收购 HP'  结果=15 条  总耗时=116.99s ===
+2026-04-19 10:34:52 [INFO] main: <<< 请求完成  topic='英伟达 收购 HP'  耗时=116.99s

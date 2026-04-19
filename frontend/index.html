@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agent News — 智能新闻搜索</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- 顶部渐变 Header，展示应用名称和副标题 -->
+  <header>
+    <h1>🤖 Agent News</h1>
+    <p>由 Ollama + Gemma 4 驱动的智能新闻搜索</p>
+  </header>
+
+  <!-- 搜索框区域：悬浮在 Header 底部，白色圆角卡片样式 -->
+  <div class="search-wrapper">
+    <div class="search-box">
+      <!-- 用户输入搜索主题的文本框，autofocus 使页面加载后自动聚焦 -->
+      <input
+        id="topic-input"
+        type="text"
+        placeholder="输入主题，例如：人工智能、苹果、气候变化..."
+        autofocus
+      />
+      <!-- 触发搜索的按钮，搜索进行中会被禁用防止重复提交 -->
+      <button id="search-btn">搜索</button>
+    </div>
+  </div>
+
+  <main>
+
+    <!-- 进度状态卡片：搜索开始后显示，展示 Agent 的执行阶段 -->
+    <div id="status-section">
+      <div class="status-card">
+
+        <!-- 步骤指示器：共 4 步，由 app.js 动态控制 active/done 样式 -->
+        <div class="steps">
+          <div class="step" data-step="1">
+            <span class="step-dot"></span>启动 Agent
+          </div>
+          <div class="step" data-step="2">
+            <span class="step-dot"></span>搜索新闻
+          </div>
+          <div class="step" data-step="3">
+            <span class="step-dot"></span>去重排序
+          </div>
+          <div class="step" data-step="4">
+            <span class="step-dot"></span>完成
+          </div>
+        </div>
+
+        <!-- 当前进度文字描述 + loading 动画 -->
+        <div class="status-message">
+          <div class="spinner"></div>   <!-- CSS 旋转动画，完成后隐藏 -->
+          <span id="status-msg">正在初始化...</span>  <!-- 由 setStatus() 动态更新 -->
+        </div>
+
+      </div>
+    </div>
+
+    <!-- 结果列表标题行：首条新闻渲染后才显示 -->
+    <div id="results-header">
+      <h2>搜索结果</h2>
+      <span id="result-count">共 0 条</span>  <!-- 随新闻卡片渲染实时更新 -->
+    </div>
+
+    <!-- 新闻卡片网格：由 app.js 动态追加卡片，SSE 流式逐条插入 -->
+    <div id="news-grid"></div>
+
+  </main>
+
+  <!-- 在 </body> 前引入脚本，确保 DOM 已加载完毕 -->
+  <script src="app.js"></script>
+</body>
+</html>

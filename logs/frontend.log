@@ -1,0 +1,206 @@
+2026-04-19 10:20:11 [DEBUG] frontend: 收到 chunk #6  字节=8634  累计=9209B
+2026-04-19 10:20:11 [DEBUG] frontend: SSEParser: 解析出 18 个事件
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=status  data={"step":3,"message":"正在去重、排序..."}
+2026-04-19 10:20:11 [INFO] frontend: [status] step=3  msg="正在去重、排序..."
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=status  data={"step":4,"message":"完成，共 15 条新闻"}
+2026-04-19 10:20:11 [INFO] frontend: [status] step=4  msg="完成，共 15 条新闻"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":1,"title":"China Opens Individual Travel to Taiwan for Shanghai and Fujian... - 联合日报","summary":"China Opens Indiv
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #1] title="China Opens Individual Travel to Taiwan for Shanghai and Fuj"  source="联合日报"  date="2026-04-17 04:25"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":2,"title":"World's Best Hospitals 2026 - Taiwan - Newsweek Rankings","summary":"World's Best Hospitals 2026 - Taiw
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #2] title="World's Best Hospitals 2026 - Taiwan - Newsweek Rankings"  source="Newsweek Rankings"  date="2026-02-25 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":3,"title":"U.S.-Taiwan Trade Agreement Leaves Major Questions Open - Council on Foreign Relations","summary":"U.S.
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #3] title="U.S.-Taiwan Trade Agreement Leaves Major Questions Open - Co"  source="Council on Foreign Relations"  date="2026-02-12 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":4,"title":"High-Level Latin American Delegation Visits to Taiwan in 2025 - Global Taiwan Institute","summary":"Hig
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #4] title="High-Level Latin American Delegation Visits to Taiwan in 202"  source="Global Taiwan Institute"  date="2026-01-28 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":5,"title":"China & Taiwan Update, January 16, 2026 - Institute for the Study of War","summary":"China & Taiwan Upd
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #5] title="China & Taiwan Update, January 16, 2026 - Institute for the "  source="Institute for the Study of War"  date="2026-01-16 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":6,"title":"Lai's arms spending sending Taiwan to edge - 大公文匯網","summary":"Lai's arms spending sending Taiwan to ed
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #6] title="Lai's arms spending sending Taiwan to edge - 大公文匯網"  source="大公文匯網"  date="2026-01-14 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":7,"title":"The PLA’s “Justice Mission-2025” Exercise Around Taiwan - Global Taiwan Institute","summary":"The PLA’s
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #7] title="The PLA’s “Justice Mission-2025” Exercise Around Taiwan - Gl"  source="Global Taiwan Institute"  date="2026-01-02 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":8,"title":"China Wraps ‘Justice Mission’ Taiwan Blockade Drills - USNI News","summary":"China Wraps ‘Justice Missi
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #8] title="China Wraps ‘Justice Mission’ Taiwan Blockade Drills - USNI "  source="USNI News"  date="2025-12-31 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":9,"title":"Taiwan Passes Major Amendments to the Personal Data Protection Act - Jones Day","summary":"Taiwan Passe
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #9] title="Taiwan Passes Major Amendments to the Personal Data Protecti"  source="Jones Day"  date="2025-12-16 21:26"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":10,"title":"Corporate Double Exposure: Taiwan’s 2025 Reform of Outbound Investment Control and the Fragmented Lega
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #10] title="Corporate Double Exposure: Taiwan’s 2025 Reform of Outbound "  source="ASIL"  date="2025-12-04 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":11,"title":"Taiwan: democratic David in 21st century east Asia - Frontiers","summary":"Taiwan: democratic David in
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #11] title="Taiwan: democratic David in 21st century east Asia - Frontie"  source="Frontiers"  date="2025-11-26 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":12,"title":"How Taiwan Reimagines Maritime Security: Insights from the 2025 National Ocean Policy White Paper - CS
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #12] title="How Taiwan Reimagines Maritime Security: Insights from the 2"  source="CSIS | Center for Strategic and International Studies"  date="2025-11-24 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":13,"title":"Taiwan: Freedom on the Net 2025 Country Report - Freedom House","summary":"Taiwan: Freedom on the Net 
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #13] title="Taiwan: Freedom on the Net 2025 Country Report - Freedom Hou"  source="Freedom House"  date="2025-11-16 09:44"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":14,"title":"Hill, Amo Issue Statements on Their Bill to Boost U.S.–Taiwan Space Cooperation - Congressman French H
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #14] title="Hill, Amo Issue Statements on Their Bill to Boost U.S.–Taiwa"  source="Congressman French Hill (.gov)"  date="2025-11-14 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=news_item  data={"id":15,"title":"China & Taiwan Update, November 7, 2025 - Institute for the Study of War","summary":"China & Taiwan Up
+2026-04-19 10:20:11 [DEBUG] frontend: [news_item #15] title="China & Taiwan Update, November 7, 2025 - Institute for the "  source="Institute for the Study of War"  date="2025-11-07 08:00"
+2026-04-19 10:20:11 [DEBUG] frontend: 处理事件  type=done  data={"total":15}
+2026-04-19 10:20:11 [INFO] frontend: [done] total=15  前端总耗时=107.78s
+2026-04-19 10:20:11 [INFO] frontend: SSE 流读取完毕  总 chunks=6  总字节=9209
+2026-04-19 10:20:11 [INFO] frontend: ========== 搜索结束  渲染卡片=15 张 ==========
+2026-04-19 10:23:06 [INFO] frontend: app.js 加载完成，等待用户输入
+2026-04-19 10:23:29 [INFO] frontend: ========== 新搜索开始  topic="台湾自由行是否开放" ==========
+2026-04-19 10:23:29 [INFO] frontend: 发起 POST 请求  url=http://localhost:8000/api/search
+2026-04-19 10:23:29 [INFO] frontend: HTTP 响应  status=200  ok=true
+2026-04-19 10:23:29 [DEBUG] frontend: 开始读取 SSE 流...
+2026-04-19 10:23:29 [INFO] frontend: [status] step=1  msg="正在启动 Agent，搜索主题「台湾自由行是否开放」..."
+2026-04-19 10:23:29 [DEBUG] frontend: 收到 chunk #1  字节=117  累计=117B
+2026-04-19 10:23:29 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:23:29 [DEBUG] frontend: 处理事件  type=status  data={"step":1,"message":"正在启动 Agent，搜索主题「台湾自由行是否开放」..."}
+2026-04-19 10:23:44 [DEBUG] frontend: 收到 chunk #2  字节=87  累计=204B
+2026-04-19 10:23:44 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:23:44 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：台湾自由行是否开放"}
+2026-04-19 10:23:44 [INFO] frontend: [status] step=2  msg="搜索中：台湾自由行是否开放"
+2026-04-19 10:23:45 [DEBUG] frontend: 收到 chunk #3  字节=171  累计=375B
+2026-04-19 10:23:45 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-19 10:23:45 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 0 条（累计 0 条）"}
+2026-04-19 10:23:45 [INFO] frontend: [status] step=2  msg="找到 0 条（累计 0 条）"
+2026-04-19 10:23:45 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：台湾自由行 最新消息 2025"}
+2026-04-19 10:23:45 [INFO] frontend: [status] step=2  msg="搜索中：台湾自由行 最新消息 2025"
+2026-04-19 10:23:45 [DEBUG] frontend: 收到 chunk #4  字节=171  累计=546B
+2026-04-19 10:23:45 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-19 10:23:45 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 0 条（累计 0 条）"}
+2026-04-19 10:23:45 [INFO] frontend: [status] step=2  msg="找到 0 条（累计 0 条）"
+2026-04-19 10:23:45 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：大陆赴台自由行 政策 2025"}
+2026-04-19 10:23:45 [INFO] frontend: [status] step=2  msg="搜索中：大陆赴台自由行 政策 2025"
+2026-04-19 10:23:45 [DEBUG] frontend: 收到 chunk #5  字节=78  累计=624B
+2026-04-19 10:23:45 [INFO] frontend: [status] step=2  msg="找到 0 条（累计 0 条）"
+2026-04-19 10:23:45 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 0 条（累计 0 条）"}
+2026-04-19 10:23:45 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:24:21 [DEBUG] frontend: 收到 chunk #6  字节=95  累计=719B
+2026-04-19 10:24:21 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:24:21 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：大陆赴台旅游 政策 2024 2025"}
+2026-04-19 10:24:21 [INFO] frontend: [status] step=2  msg="搜索中：大陆赴台旅游 政策 2024 2025"
+2026-04-19 10:24:21 [DEBUG] frontend: 收到 chunk #7  字节=168  累计=887B
+2026-04-19 10:24:21 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-19 10:24:21 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 0 条（累计 0 条）"}
+2026-04-19 10:24:21 [INFO] frontend: [status] step=2  msg="找到 0 条（累计 0 条）"
+2026-04-19 10:24:21 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：台湾 自由行 开放 进度"}
+2026-04-19 10:24:21 [INFO] frontend: [status] step=2  msg="搜索中：台湾 自由行 开放 进度"
+2026-04-19 10:24:22 [DEBUG] frontend: 收到 chunk #8  字节=78  累计=965B
+2026-04-19 10:24:22 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:24:22 [INFO] frontend: [status] step=2  msg="找到 0 条（累计 0 条）"
+2026-04-19 10:24:22 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 0 条（累计 0 条）"}
+2026-04-19 10:24:59 [DEBUG] frontend: 收到 chunk #9  字节=99  累计=1064B
+2026-04-19 10:24:59 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:24:59 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：Mainland China Taiwan tourism open 2025"}
+2026-04-19 10:24:59 [INFO] frontend: [status] step=2  msg="搜索中：Mainland China Taiwan tourism open 2025"
+2026-04-19 10:25:00 [DEBUG] frontend: 收到 chunk #10  字节=186  累计=1250B
+2026-04-19 10:25:00 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-19 10:25:00 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 15 条（累计 15 条）"}
+2026-04-19 10:25:00 [INFO] frontend: [status] step=2  msg="找到 15 条（累计 15 条）"
+2026-04-19 10:25:00 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：Taiwan travel policy for Chinese citizens 2025"}
+2026-04-19 10:25:00 [INFO] frontend: [status] step=2  msg="搜索中：Taiwan travel policy for Chinese citizens 2025"
+2026-04-19 10:25:00 [DEBUG] frontend: 收到 chunk #11  字节=80  累计=1330B
+2026-04-19 10:25:00 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:25:00 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 15 条（累计 30 条）"}
+2026-04-19 10:25:00 [INFO] frontend: [status] step=2  msg="找到 15 条（累计 30 条）"
+2026-04-19 10:26:00 [DEBUG] frontend: 收到 chunk #12  字节=9305  累计=10635B
+2026-04-19 10:26:00 [DEBUG] frontend: SSEParser: 解析出 18 个事件
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=status  data={"step":3,"message":"正在去重、排序..."}
+2026-04-19 10:26:00 [INFO] frontend: [status] step=3  msg="正在去重、排序..."
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=status  data={"step":4,"message":"完成，共 15 条新闻"}
+2026-04-19 10:26:00 [INFO] frontend: [status] step=4  msg="完成，共 15 条新闻"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":1,"title":"Taiwan Explained: Why China Claims It, and Why the U.S. Is Involved - Council on Foreign Relations","su
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #1] title="Taiwan Explained: Why China Claims It, and Why the U.S. Is I"  source="Council on Foreign Relations"  date="2026-03-13 07:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":2,"title":"Beijing renews calls for Taipei to open up tourism upon my FT oped - Pekingnology","summary":"Beijing r
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #2] title="Beijing renews calls for Taipei to open up tourism upon my F"  source="Pekingnology"  date="2026-03-05 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":3,"title":"Let Chinese mainland tourists return to Taiwan - Financial Times","summary":"Let Chinese mainland touri
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #3] title="Let Chinese mainland tourists return to Taiwan - Financial T"  source="Financial Times"  date="2026-02-25 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":4,"title":"Over 3 million Taiwanese visited mainland China in 2025, Taipei says - South China Morning Post","summa
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #4] title="Over 3 million Taiwanese visited mainland China in 2025, Tai"  source="South China Morning Post"  date="2026-02-14 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":5,"title":"DPP urged to fully restore travel routes - China Daily","summary":"DPP urged to fully restore travel ro
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #5] title="DPP urged to fully restore travel routes - China Daily"  source="China Daily"  date="2026-02-06 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":6,"title":"Mainland opens a new phase in combating ‘Taiwan independence’ - Global Times","summary":"Mainland opens
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":7,"title":"Takaichi says Japan 'always open' to dialogue with China - The Japan Times","summary":"Takaichi says Ja
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #6] title="Mainland opens a new phase in combating ‘Taiwan independence"  source="Global Times"  date="2026-01-13 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":8,"title":"China in diplomatic push to isolate Japan in feud over Taiwan issue - NPR","summary":"China in diplomat
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #8] title="China in diplomatic push to isolate Japan in feud over Taiwa"  source="NPR"  date="2025-12-05 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":9,"title":"China Immigration Reforms for End of Year 2025 - Pryor Cashman LLP","summary":"China Immigration Reform
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #7] title="Takaichi says Japan 'always open' to dialogue with China - T"  source="The Japan Times"  date="2025-12-17 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":10,"title":"China ramps up retaliatory measures against Japan, suspending travel and seafood purchases - Le Monde.
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #9] title="China Immigration Reforms for End of Year 2025 - Pryor Cashm"  source="Pryor Cashman LLP"  date="2025-12-02 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #10] title="China ramps up retaliatory measures against Japan, suspendin"  source="Le Monde.fr"  date="2025-11-21 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":11,"title":"Taiwan tensions: China-Japan row hits trade and travel amid escalating rhetoric - France 24","summary"
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #11] title="Taiwan tensions: China-Japan row hits trade and travel amid "  source="France 24"  date="2025-11-19 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":12,"title":"Beijing Issues Rare “Do-Not-Travel” Warning for Japan Amid Rising Tensions - VisaHQ","summary":"Beijin
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #12] title="Beijing Issues Rare “Do-Not-Travel” Warning for Japan Amid R"  source="VisaHQ"  date="2025-11-18 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":13,"title":"China suspends Japanese film releases amid diplomatic row over Taiwan - Al Jazeera","summary":"China s
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #13] title="China suspends Japanese film releases amid diplomatic row ov"  source="Al Jazeera"  date="2025-11-18 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":14,"title":"Diplomatic spat between Tokyo and Beijing threatens Japan's already fragile economy - CNBC","summary":
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #14] title="Diplomatic spat between Tokyo and Beijing threatens Japan's "  source="CNBC"  date="2025-11-18 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: [news_item #15] title="China and Japan are in a war of words over Taiwan – what hap"  source="The Guardian"  date="2025-11-17 08:00"
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=news_item  data={"id":15,"title":"China and Japan are in a war of words over Taiwan – what happens next? - The Guardian","summary":"Chin
+2026-04-19 10:26:00 [DEBUG] frontend: 处理事件  type=done  data={"total":15}
+2026-04-19 10:26:00 [INFO] frontend: [done] total=15  前端总耗时=150.64s
+2026-04-19 10:26:00 [INFO] frontend: SSE 流读取完毕  总 chunks=12  总字节=10635
+2026-04-19 10:26:00 [INFO] frontend: ========== 搜索结束  渲染卡片=15 张 ==========
+2026-04-19 10:32:36 [INFO] frontend: app.js 加载完成，等待用户输入
+2026-04-19 10:32:55 [INFO] frontend: ========== 新搜索开始  topic="英伟达 收购 HP" ==========
+2026-04-19 10:32:55 [INFO] frontend: 发起 POST 请求  url=http://localhost:8000/api/search
+2026-04-19 10:32:55 [INFO] frontend: HTTP 响应  status=200  ok=true
+2026-04-19 10:32:55 [DEBUG] frontend: 开始读取 SSE 流...
+2026-04-19 10:32:55 [DEBUG] frontend: 收到 chunk #1  字节=109  累计=109B
+2026-04-19 10:32:55 [DEBUG] frontend: 处理事件  type=status  data={"step":1,"message":"正在启动 Agent，搜索主题「英伟达 收购 HP」..."}
+2026-04-19 10:32:55 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:32:55 [INFO] frontend: [status] step=1  msg="正在启动 Agent，搜索主题「英伟达 收购 HP」..."
+2026-04-19 10:33:14 [DEBUG] frontend: 收到 chunk #2  字节=79  累计=188B
+2026-04-19 10:33:14 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:33:14 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：英伟达 收购 HP"}
+2026-04-19 10:33:14 [INFO] frontend: [status] step=2  msg="搜索中：英伟达 收购 HP"
+2026-04-19 10:33:15 [DEBUG] frontend: 收到 chunk #3  字节=164  累计=352B
+2026-04-19 10:33:15 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-19 10:33:15 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 2 条（累计 2 条）"}
+2026-04-19 10:33:15 [INFO] frontend: [status] step=2  msg="找到 2 条（累计 2 条）"
+2026-04-19 10:33:15 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：Nvidia acquisition HP news"}
+2026-04-19 10:33:15 [INFO] frontend: [status] step=2  msg="搜索中：Nvidia acquisition HP news"
+2026-04-19 10:33:15 [DEBUG] frontend: 收到 chunk #4  字节=166  累计=518B
+2026-04-19 10:33:15 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-19 10:33:15 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 15 条（累计 17 条）"}
+2026-04-19 10:33:15 [INFO] frontend: [status] step=2  msg="找到 15 条（累计 17 条）"
+2026-04-19 10:33:15 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：Nvidia HP latest news 2025"}
+2026-04-19 10:33:15 [INFO] frontend: [status] step=2  msg="搜索中：Nvidia HP latest news 2025"
+2026-04-19 10:33:16 [DEBUG] frontend: 收到 chunk #5  字节=80  累计=598B
+2026-04-19 10:33:16 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-19 10:33:16 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 15 条（累计 32 条）"}
+2026-04-19 10:33:16 [INFO] frontend: [status] step=2  msg="找到 15 条（累计 32 条）"
+2026-04-19 10:34:52 [DEBUG] frontend: 收到 chunk #6  字节=10441  累计=11039B
+2026-04-19 10:34:52 [DEBUG] frontend: SSEParser: 解析出 18 个事件
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=status  data={"step":3,"message":"正在去重、排序..."}
+2026-04-19 10:34:52 [INFO] frontend: [status] step=3  msg="正在去重、排序..."
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=status  data={"step":4,"message":"完成，共 15 条新闻"}
+2026-04-19 10:34:52 [INFO] frontend: [status] step=4  msg="完成，共 15 条新闻"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":1,"title":"Nvidia denies acquisition rumour after Dell, HP shares surge - MSN","summary":"Nvidia denies acquisitio
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #1] title="Nvidia denies acquisition rumour after Dell, HP shares surge"  source="MSN"  date="2026-04-19 10:52"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":2,"title":"Nvidia Denies Rumors About Acquiring PC Maker; HP, Dell Stocks Still Spike Over 5% — Analyst Says Rival
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #2] title="Nvidia Denies Rumors About Acquiring PC Maker; HP, Dell Stoc"  source="Yahoo Finance"  date="2026-04-15 11:31"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":4,"title":"英偉達(NVDA.US)澄清並無計劃收購戴爾(DELL.US)或惠普(HPQ.US)US Stocks - Global News Content - AASTOCKS.com","summary":"英偉
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":3,"title":"Nvidia quashes rumor it’s planning to purchase a major PC manufacturer — says that it’s ‘not engaged in
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #3] title="Nvidia quashes rumor it’s planning to purchase a major PC ma"  source="Tom's Hardware"  date="2026-04-14 14:51"
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #4] title="英偉達(NVDA.US)澄清並無計劃收購戴爾(DELL.US)或惠普(HPQ.US)US Stocks - Global"  source="AASTOCKS.com"  date="2026-04-14 14:46"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":5,"title":"Dell Stock: Nvidia Weighs in on Potential Acquisition - Barron's","summary":"Dell Stock: Nvidia Weighs 
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #5] title="Dell Stock: Nvidia Weighs in on Potential Acquisition - Barr"  source="Barron's"  date="2026-04-14 11:45"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":6,"title":"Nvidia says no to rumor that sparked jump in Dell and HP shares; says: Not engaged in discussions to bu
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #6] title="Nvidia says no to rumor that sparked jump in Dell and HP sha"  source="The Times of India"  date="2026-04-14 09:41"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":7,"title":"From 'Tool Provider' to 'Definer': Behind the Urgent Denial, Why Does the Market 'Believe' NVIDIA Might
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #7] title="From 'Tool Provider' to 'Definer': Behind the Urgent Denial,"  source="Moomoo"  date="2026-04-14 01:28"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":8,"title":"Nvidia Eyes Dell Acquisition, Sparks PC Stocks - Let's Data Science","summary":"Nvidia Eyes Dell Acquis
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":9,"title":"NVIDIA Denies Acquisition Rumors, Dell and HP Stocks React - GuruFocus","summary":"NVIDIA Denies Acquis
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #8] title="Nvidia Eyes Dell Acquisition, Sparks PC Stocks - Let's Data "  source="Let's Data Science"  date="2026-04-14 00:46"
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #10] title="Nvidia denies reports of PC manufacturer acquisition talks B"  source="Investing.com India"  date="2026-04-13 21:27"
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #9] title="NVIDIA Denies Acquisition Rumors, Dell and HP Stocks React -"  source="GuruFocus"  date="2026-04-13 23:15"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":10,"title":"Nvidia denies reports of PC manufacturer acquisition talks By Investing.com - Investing.com India","su
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":11,"title":"Dell Stock Jumps. Here’s the Rumor Sending Shares Higher. - Barron's","summary":"Dell Stock Jumps. Her
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #11] title="Dell Stock Jumps. Here’s the Rumor Sending Shares Higher. - "  source="Barron's"  date="2026-04-13 20:38"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":12,"title":"Nvidia Denies Acquisition Rumor That Sparked Dell, HP Rise - Yahoo Finance","summary":"Nvidia Denies A
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #12] title="Nvidia Denies Acquisition Rumor That Sparked Dell, HP Rise -"  source="Yahoo Finance"  date="2026-04-13 20:19"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":13,"title":"Dell, HP Inc. Shares Jump on Acquisition Speculation Report - Bloomberg.com","summary":"Dell, HP Inc. 
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":14,"title":"Dell, HP Inc. Shares Jump on Nvidia-Linked Acquisition Speculation - marketscreener.com","summary":"De
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #13] title="Dell, HP Inc. Shares Jump on Acquisition Speculation Report "  source="Bloomberg.com"  date="2026-04-13 20:19"
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #14] title="Dell, HP Inc. Shares Jump on Nvidia-Linked Acquisition Specu"  source="marketscreener.com"  date="2026-04-13 20:06"
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=news_item  data={"id":15,"title":"\"It will reshape the PC landscape\": A new rumor says NVIDIA is entering final negotiations to buy a 
+2026-04-19 10:34:52 [DEBUG] frontend: 处理事件  type=done  data={"total":15}
+2026-04-19 10:34:52 [DEBUG] frontend: [news_item #15] title=""It will reshape the PC landscape": A new rumor says NVIDIA "  source="Windows Central"  date="2026-04-13 19:04"
+2026-04-19 10:34:52 [INFO] frontend: [done] total=15  前端总耗时=117.01s
+2026-04-19 10:34:52 [INFO] frontend: SSE 流读取完毕  总 chunks=6  总字节=11039
+2026-04-19 10:34:52 [INFO] frontend: ========== 搜索结束  渲染卡片=15 张 ==========
