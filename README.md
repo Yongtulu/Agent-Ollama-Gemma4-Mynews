@@ -111,7 +111,7 @@ python main.py
 [LLM 推理] Gemma 4 收到主题，决定搜索策略
     │
     ├──► 调用 search_news("主题")
-    ├──► 调用 search_news("主题 latest 2025")
+    ├──► 调用 search_news("主题 latest 2026")
     └──► 调用 search_news("主题 news")
               │
               ▼ （每次搜索结果追加到消息历史）
