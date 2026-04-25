@@ -204,3 +204,72 @@
 2026-04-19 10:34:52 [INFO] frontend: [done] total=15  前端总耗时=117.01s
 2026-04-19 10:34:52 [INFO] frontend: SSE 流读取完毕  总 chunks=6  总字节=11039
 2026-04-19 10:34:52 [INFO] frontend: ========== 搜索结束  渲染卡片=15 张 ==========
+2026-04-25 12:59:50 [INFO] frontend: app.js 加载完成，等待用户输入
+2026-04-25 13:00:06 [INFO] frontend: ========== 新搜索开始  topic="Claude Code" ==========
+2026-04-25 13:00:06 [INFO] frontend: 发起 POST 请求  url=http://localhost:8000/api/search
+2026-04-25 13:00:06 [DEBUG] frontend: 开始读取 SSE 流...
+2026-04-25 13:00:06 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-25 13:00:06 [INFO] frontend: [status] step=1  msg="正在启动 Agent，搜索主题「Claude Code」..."
+2026-04-25 13:00:06 [INFO] frontend: HTTP 响应  status=200  ok=true
+2026-04-25 13:00:06 [DEBUG] frontend: 收到 chunk #1  字节=101  累计=101B
+2026-04-25 13:00:06 [DEBUG] frontend: 处理事件  type=status  data={"step":1,"message":"正在启动 Agent，搜索主题「Claude Code」..."}
+2026-04-25 13:00:22 [DEBUG] frontend: 收到 chunk #2  字节=71  累计=172B
+2026-04-25 13:00:22 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：Claude Code"}
+2026-04-25 13:00:22 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-25 13:00:22 [INFO] frontend: [status] step=2  msg="搜索中：Claude Code"
+2026-04-25 13:00:23 [DEBUG] frontend: 收到 chunk #3  字节=163  累计=335B
+2026-04-25 13:00:23 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-25 13:00:23 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 15 条（累计 15 条）"}
+2026-04-25 13:00:23 [INFO] frontend: [status] step=2  msg="找到 15 条（累计 15 条）"
+2026-04-25 13:00:23 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：Claude Code latest news"}
+2026-04-25 13:00:23 [INFO] frontend: [status] step=2  msg="搜索中：Claude Code latest news"
+2026-04-25 13:00:24 [DEBUG] frontend: 收到 chunk #4  字节=166  累计=501B
+2026-04-25 13:00:24 [DEBUG] frontend: SSEParser: 解析出 2 个事件
+2026-04-25 13:00:24 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 15 条（累计 30 条）"}
+2026-04-25 13:00:24 [INFO] frontend: [status] step=2  msg="找到 15 条（累计 30 条）"
+2026-04-25 13:00:24 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"搜索中：Claude Code Anthropic 2025"}
+2026-04-25 13:00:24 [INFO] frontend: [status] step=2  msg="搜索中：Claude Code Anthropic 2025"
+2026-04-25 13:00:25 [DEBUG] frontend: 收到 chunk #5  字节=80  累计=581B
+2026-04-25 13:00:25 [DEBUG] frontend: SSEParser: 解析出 1 个事件
+2026-04-25 13:00:25 [DEBUG] frontend: 处理事件  type=status  data={"step":2,"message":"找到 15 条（累计 45 条）"}
+2026-04-25 13:00:25 [INFO] frontend: [status] step=2  msg="找到 15 条（累计 45 条）"
+2026-04-25 13:02:48 [DEBUG] frontend: 收到 chunk #6  字节=8834  累计=9415B
+2026-04-25 13:02:48 [DEBUG] frontend: SSEParser: 解析出 18 个事件
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=status  data={"step":3,"message":"正在去重、排序..."}
+2026-04-25 13:02:48 [INFO] frontend: [status] step=3  msg="正在去重、排序..."
+2026-04-25 13:02:48 [INFO] frontend: [status] step=4  msg="完成，共 15 条新闻"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=status  data={"step":4,"message":"完成，共 15 条新闻"}
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":1,"title":"You weren't imagining it — Claude Code really did get worse, and Anthropic just explained why - XDA","s
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #1] title="You weren't imagining it — Claude Code really did get worse,"  source="XDA"  date="2026-04-25 03:45"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":2,"title":"Anthropic says engineering missteps were behind Claude Code’s monthlong decline after weeks of user bac
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #2] title="Anthropic says engineering missteps were behind Claude Code’"  source="Fortune"  date="2026-04-24 17:21"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":3,"title":"AI may be approaching a new phase in healthcare, on two fronts - Healthcare IT News","summary":"AI may 
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #3] title="AI may be approaching a new phase in healthcare, on two fron"  source="Healthcare IT News"  date="2026-04-24 15:42"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":4,"title":"Claude’s Code Quality Conundrum Continues - DevOps.com","summary":"Claude’s Code Quality Conundrum Cont
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":5,"title":"Why Claude needs a real environment to validate cloud-native code - The New Stack","summary":"Why Claud
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #4] title="Claude’s Code Quality Conundrum Continues - DevOps.com"  source="DevOps.com"  date="2026-04-24 12:12"
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #5] title="Why Claude needs a real environment to validate cloud-native"  source="The New Stack"  date="2026-04-24 12:02"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":6,"title":"Anthropic confirms Claude Code problems and promises stricter quality controls - the-decoder.com","summ
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #6] title="Anthropic confirms Claude Code problems and promises stricte"  source="the-decoder.com"  date="2026-04-24 10:55"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":7,"title":"Claude Code's product chief says people have serious FOMO over AI's relentless pace - Business Insider"
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #7] title="Claude Code's product chief says people have serious FOMO ov"  source="Business Insider"  date="2026-04-24 06:10"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":8,"title":"Anthropic says Claude Code did get worse — but shoots down speculation it 'nerfed' the model - Business
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #8] title="Anthropic says Claude Code did get worse — but shoots down s"  source="Business Insider"  date="2026-04-23 22:03"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":9,"title":"Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely cause
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #9] title="Mystery solved: Anthropic reveals changes to Claude's harnes"  source="VentureBeat"  date="2026-04-23 21:50"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":10,"title":"Claude Opus 4.7 has turned into an overzealous query cop, devs complain - theregister.com","summary":"
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #10] title="Claude Opus 4.7 has turned into an overzealous query cop, de"  source="theregister.com"  date="2026-04-23 20:47"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":11,"title":"Flat-rate AI plans are cracking, and Claude Code could be the next victim - PCWorld","summary":"Flat-r
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #11] title="Flat-rate AI plans are cracking, and Claude Code could be th"  source="PCWorld"  date="2026-04-23 19:24"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":12,"title":"An update on recent Claude Code quality reports - Anthropic","summary":"An update on recent Claude Cod
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #12] title="An update on recent Claude Code quality reports - Anthropic"  source="Anthropic"  date="2026-04-23 18:05"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":13,"title":"Anthropic tests restrictions on Claude Code in Pro subscription - Techzine Global","summary":"Anthropi
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #13] title="Anthropic tests restrictions on Claude Code in Pro subscript"  source="Techzine Global"  date="2026-04-23 08:08"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":14,"title":"Anthropic's Claude Code pricing pain is Sam Altman's pleasure - Business Insider","summary":"Anthropic
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #14] title="Anthropic's Claude Code pricing pain is Sam Altman's pleasur"  source="Business Insider"  date="2026-04-22 19:33"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=news_item  data={"id":15,"title":"Anthropic tested removing Claude Code from the Pro plan - Ars Technica","summary":"Anthropic tested re
+2026-04-25 13:02:48 [DEBUG] frontend: [news_item #15] title="Anthropic tested removing Claude Code from the Pro plan - Ar"  source="Ars Technica"  date="2026-04-22 18:34"
+2026-04-25 13:02:48 [DEBUG] frontend: 处理事件  type=done  data={"total":15}
+2026-04-25 13:02:48 [INFO] frontend: [done] total=15  前端总耗时=162.21s
+2026-04-25 13:02:48 [INFO] frontend: SSE 流读取完毕  总 chunks=6  总字节=9415
+2026-04-25 13:02:48 [INFO] frontend: ========== 搜索结束  渲染卡片=15 张 ==========

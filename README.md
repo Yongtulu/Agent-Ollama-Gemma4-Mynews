@@ -6,6 +6,20 @@ Users input a topic of interest, and the Agent autonomously plans its search str
 
 ---
 
+## Screenshot
+
+![Agent News Frontend](news.png)
+
+The search box supports both Chinese and English input. After clicking "Search", a real-time progress bar appears at the top of the page showing each stage: **Launching Agent → Searching News → Deduplicating & Sorting → Done**. Results are rendered as a card grid, with each card showing:
+- News title and summary
+- Source outlet (e.g. XDA, Fortune, Healthcare IT News)
+- Exact publication time
+- "Read Original" link to the source article
+
+All content is streamed via SSE — cards appear one by one as each result arrives, with no waiting for the full batch.
+
+---
+
 ## Features
 
 - **Agent-driven**: The local LLM autonomously decides on search keyword variations, using multi-round searches for more comprehensive coverage

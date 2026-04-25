@@ -242,3 +242,59 @@
 2026-04-19 10:34:52 [DEBUG] tools: 格式化完成  共 15 条
 2026-04-19 10:34:52 [INFO] agent: === Agent 完成  topic='英伟达 收购 HP'  结果=15 条  总耗时=116.99s ===
 2026-04-19 10:34:52 [INFO] main: <<< 请求完成  topic='英伟达 收购 HP'  耗时=116.99s
+2026-04-25 12:59:35 [INFO] main: 日志系统初始化完成  backend.log / frontend.log
+2026-04-25 13:00:06 [INFO] main: >>> 收到搜索请求  topic='Claude Code'  client=127.0.0.1
+2026-04-25 13:00:06 [INFO] agent: === Agent 启动  topic='Claude Code'  model=gemma4:31b ===
+2026-04-25 13:00:06 [INFO] agent: --- 第 1 轮 LLM 调用 ---
+2026-04-25 13:00:06 [DEBUG] httpcore.connection: connect_tcp.started host='127.0.0.1' port=11434 local_address=None timeout=None socket_options=None
+2026-04-25 13:00:06 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x1100e27b0>
+2026-04-25 13:00:06 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-25 13:00:06 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-25 13:00:06 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-25 13:00:06 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-25 13:00:06 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-25 13:00:22 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sat, 25 Apr 2026 17:00:22 GMT'), (b'Content-Length', b'976')])
+2026-04-25 13:00:22 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-25 13:00:22 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-25 13:00:22 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-25 13:00:22 [DEBUG] httpcore.http11: response_closed.started
+2026-04-25 13:00:22 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-25 13:00:22 [INFO] agent: LLM 响应  耗时=16.58s  content=''  tool_calls=['search_news', 'search_news', 'search_news']
+2026-04-25 13:00:22 [DEBUG] agent: 工具调用  fn=search_news  args={'query': 'Claude Code'}
+2026-04-25 13:00:22 [DEBUG] tools: Google News RSS 搜索  query='Claude Code'  max_results=15
+2026-04-25 13:00:22 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=Claude+Code&hl=en-US&gl=US&ceid=US:en
+2026-04-25 13:00:23 [INFO] tools: 搜索完成  query='Claude Code'  返回=15 条  耗时=1.00s
+2026-04-25 13:00:23 [DEBUG] tools: 第一条样本: title='An update on recent Claude Code quality reports - Anthropic'  source='Anthropic'  date='2026-04-23T18:05:55+00:00'
+2026-04-25 13:00:23 [INFO] agent: 工具返回  query='Claude Code'  本次=15  累计=15
+2026-04-25 13:00:23 [DEBUG] agent: 工具调用  fn=search_news  args={'query': 'Claude Code latest news'}
+2026-04-25 13:00:23 [DEBUG] tools: Google News RSS 搜索  query='Claude Code latest news'  max_results=15
+2026-04-25 13:00:23 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=Claude+Code+latest+news&hl=en-US&gl=US&ceid=US:en
+2026-04-25 13:00:24 [INFO] tools: 搜索完成  query='Claude Code latest news'  返回=15 条  耗时=0.64s
+2026-04-25 13:00:24 [DEBUG] tools: 第一条样本: title='An update on recent Claude Code quality reports - Anthropic'  source='Anthropic'  date='2026-04-23T18:05:55+00:00'
+2026-04-25 13:00:24 [INFO] agent: 工具返回  query='Claude Code latest news'  本次=15  累计=30
+2026-04-25 13:00:24 [DEBUG] agent: 工具调用  fn=search_news  args={'query': 'Claude Code Anthropic 2025'}
+2026-04-25 13:00:24 [DEBUG] tools: Google News RSS 搜索  query='Claude Code Anthropic 2025'  max_results=15
+2026-04-25 13:00:24 [DEBUG] tools: RSS URL: https://news.google.com/rss/search?q=Claude+Code+Anthropic+2025&hl=en-US&gl=US&ceid=US:en
+2026-04-25 13:00:25 [INFO] tools: 搜索完成  query='Claude Code Anthropic 2025'  返回=15 条  耗时=0.63s
+2026-04-25 13:00:25 [DEBUG] tools: 第一条样本: title='Claude Opus 4.7 has turned into an overzealous query cop, de'  source='theregister.com'  date='2026-04-23T20:47:00+00:00'
+2026-04-25 13:00:25 [INFO] agent: 工具返回  query='Claude Code Anthropic 2025'  本次=15  累计=45
+2026-04-25 13:00:25 [INFO] agent: --- 第 2 轮 LLM 调用 ---
+2026-04-25 13:00:25 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2026-04-25 13:00:25 [DEBUG] httpcore.http11: send_request_headers.complete
+2026-04-25 13:00:25 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2026-04-25 13:00:25 [DEBUG] httpcore.http11: send_request_body.complete
+2026-04-25 13:00:25 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2026-04-25 13:02:48 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Content-Type', b'application/json; charset=utf-8'), (b'Date', b'Sat, 25 Apr 2026 17:02:48 GMT'), (b'Transfer-Encoding', b'chunked')])
+2026-04-25 13:02:48 [INFO] httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-04-25 13:02:48 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2026-04-25 13:02:48 [DEBUG] httpcore.http11: receive_response_body.complete
+2026-04-25 13:02:48 [DEBUG] httpcore.http11: response_closed.started
+2026-04-25 13:02:48 [DEBUG] httpcore.http11: response_closed.complete
+2026-04-25 13:02:48 [INFO] agent: LLM 响应  耗时=143.34s  content='Based on the latest reports, here are the top 15 news stories regarding **Claude'  tool_calls=无
+2026-04-25 13:02:48 [INFO] agent: 模型未调用工具，Agent 主动结束
+2026-04-25 13:02:48 [INFO] tools: 去重  原始=45  去重后=36  删除=9
+2026-04-25 13:02:48 [INFO] tools: 排序+截断  输入=36  输出=15  limit=15
+2026-04-25 13:02:48 [DEBUG] tools: 最新一条: title="You weren't imagining it — Claude Code really did get worse, and Anthropic just explained why - XDA"  date='2026-04-25T03:45:00+00:00'
+2026-04-25 13:02:48 [DEBUG] tools: 格式化完成  共 15 条
+2026-04-25 13:02:48 [INFO] agent: === Agent 完成  topic='Claude Code'  结果=15 条  总耗时=162.19s ===
+2026-04-25 13:02:48 [INFO] main: <<< 请求完成  topic='Claude Code'  耗时=162.20s
